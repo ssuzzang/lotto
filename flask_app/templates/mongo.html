@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>로또 예측 번호 추천</title>
+</head>
+
+<body>
+    <h1>#1_ MONGODB와 연결</h1>
+    <div>
+        <p>suzzang의 프로젝트 성공!</p>
+        <p>~~~~</p>
+        {%for i in data%}
+            <p>1번 : {{i.YY}}</p>
+            <p>2번 : {{i.LEGALDONG_NM}}</p>
+            <p>3번 : {{i.APT_NM}}</p>
+            <p>4번 : {{i.DELNG_AMT}}</p>
+            <p>5번 : {{i.DELNG_AMT}}</p>
+            <p>6번 : {{i.DELNG_AMT}}</p>
+            <p>뽀너스 : {{i.DELNG_AMT}}</p>
+            <p>~~~~</p>
+        {% endfor %}
+    </div>
+</body>
+</html>

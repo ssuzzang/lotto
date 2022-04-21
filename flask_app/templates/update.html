@@ -1,0 +1,23 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+<center>
+    <div class="content">
+        <h1 style="text-align: center"> 번호 수정하기 </h1>
+
+        <div class="form">
+            <form action="/update/{{task.id}}" method="POST">
+                <div class="col-sm-4"></div>
+                <div class="col-xs-4">
+                    <input type="text" class="form-control" placeholder="수정할 번호를 적어주세요" name="content" id="content"
+                        value="{{task.content}}">
+                    <br>
+                    <button type="submit" class="btn text-muted">Update</button>
+
+                </div>
+            </form>
+        </div>
+    </div>
+</center>
+{% endblock %}
