@@ -17,24 +17,26 @@ Link :
 
 요약
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/e8c1dcb2-392a-49ba-ac1a-d70dfc60d4c7/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190988146-8d093000-bad1-4bd6-9e2d-6b0e035a39c2.png)
 
 - 학습을 통해 다음 회차 번호를 예측 합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4d16cc4c-f80e-456e-8c65-7cace8bb8c46/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190988206-87988324-1b30-43aa-a7b7-612aa495413f.png)
+
 
 - 동행복권 공식 홈페이지에서 최신 회차 데이터까지 모두 다운 후 전처리 합니다.
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/34129cce-7f6a-412b-9571-4fa99b020f67/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190988240-a825b8b5-d045-4fe6-90fc-83bb521ef9f8.png)
+
 
 - 딥러닝 모델은 RNN계열의 LSTM 으로 학습
 
-![image](https://user-images.githubusercontent.com/97435321/190987800-5d4f1cde-c4bf-4611-aa7b-c84d0fdd9acb.png)
+![image](https://user-images.githubusercontent.com/97435321/190988308-e146150e-9c27-447f-8a67-f639d9f53981.png)
 
 
 몽고DB에 올린 전체 회차별 데이터베이스
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/30b87340-aa99-4921-936a-f2fba37fee8a/Untitled.png)
+![image](https://user-images.githubusercontent.com/97435321/190988380-2b402efd-bb6c-47cd-b6cb-ca445a0c7826.png)
 
 몽고DB를 이용한 데시보드
 
