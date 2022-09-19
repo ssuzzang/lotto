@@ -38,7 +38,7 @@ Link :
 
 몽고DB를 이용한 데시보드
 
-![ezgif.com-gif-maker.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3ec94466-ecba-4a8c-9a48-514c1a1c267c/ezgif.com-gif-maker.gif)
+![image](https://user-images.githubusercontent.com/97435321/190987990-2d5d63ce-0f3b-469e-8813-4273f4878185.png)
 
 다음 회자 예측
 
